@@ -1,0 +1,7 @@
+Courier Tracking System
+======================
+
+- Parcel ID: PT-1001
+- Status: In transit
+- Last checkpoint: City Hub
+- Estimated delivery: 2026-10-30
